@@ -2,6 +2,6 @@
 #include<conio.h>
 main()
 {
-printf("Hello World!!!");
-getch();
+    printf("Hello World!!!");
+    return 0;
 }
